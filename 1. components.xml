@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="gkovalev1000927459" description="" name="test.onevizion.com_BPL_11092021172458.xml" site="http&#x3a;&#x2f;&#x2f;dev2.vqs.net&#x3a;8080" ts="" ><IMPORT>
+<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="gkovalev1000927459" description="" name="test.onevizion.com_BPL_11092021172458.xml" site="http&#x3a;&#x2f;&#x2f;dev2.vqs.net&#x3a;8080" ts="" ><IMPORT impMode="THROW_IF_EXIST">
  <IMPORT_ITEM>
   <DATE_FORMAT>MM/DD/YYYY</DATE_FORMAT>
   <DEFAULT_ACTION>3</DEFAULT_ACTION>
