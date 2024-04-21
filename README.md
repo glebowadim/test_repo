@@ -25,6 +25,9 @@ Donec aliquet placerat faucibus:
 - Maecenas elit purus
 - Nunc sit amet laoreet risus at porta turpis
 
+![image](img/http_call_rule.png)
+
+![](img/http_call_rule.png)
 
 settings.json
 
@@ -36,9 +39,12 @@ settings.json
 }
 ```
 
-![image](img/http_call_rule.png)
 
-![](img/http_call_rule.png)
+
+![Optional Text](../master/img/http_call_rule.png)
+
+![alt text](https://github.com/glebowadim/test_repo/blob/master/img/http_call_rule.png?raw=true)
+
 
 
 
