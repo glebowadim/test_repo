@@ -25,10 +25,6 @@ Donec aliquet placerat faucibus:
 - Maecenas elit purus
 - Nunc sit amet laoreet risus at porta turpis
 
-![image](img/http_call_rule.png)
-
-![](img/http_call_rule.png)
-
 settings.json
 
 ```json
