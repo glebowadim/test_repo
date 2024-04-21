@@ -41,6 +41,9 @@ settings.json
 
 ![alt text](https://github.com/glebowadim/test_repo/blob/master/img/icon.png?raw=true)
 
+![image](img/http_call_rule123.png)
+
+
 
 
 
