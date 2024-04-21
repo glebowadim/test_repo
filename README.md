@@ -39,7 +39,7 @@ settings.json
 
 ![image](img/http_call_rule.png)
 
-![alt text](https://github.com/glebowadim/test_repo/blob/master/img/http_call_rule.png?raw=true)
+![alt text](https://github.com/glebowadim/test_repo/blob/master/img/icon.png?raw=true)
 
 
 
