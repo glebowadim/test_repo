@@ -1,5 +1,5 @@
 multi_tenant = true
-locked_packages = My Package, My Package2
+locked_packages = My Package
 command = python3 start_integration.py
 settings_file_name = settings.json
 default_schedule = 0 */5 * * * ?
