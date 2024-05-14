@@ -1,3 +1,3 @@
 begin
-    util_module.enable_module_rules(:p_module_id);
+    dbms_output.put_line('Test');
 end;
