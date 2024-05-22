@@ -1,49 +1,16 @@
-# Test Module
+# Action Items
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Donec non dui mi. Curabitur eu odio rhoncus, consectetur lectus sit amet, ultrices magna. 
-Maecenas lobortis, neque sed rutrum commodo, eros sem lacinia sem, vitae finibus ex turpis ut lacus.
-Aenean id rutrum eros, sit amet lacinia urna. 
-Nulla et imperdiet ligula. In a ex tristique, ultrices ligula eu, volutpat nulla. 
-Nullam ut urna id ex blandit placerat. 
-Ut fermentum dignissim neque, vitae lacinia ipsum facilisis sit amet. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Aenean nibh purus, condimentum blandit massa quis, laoreet luctus nisi. Suspendisse potenti. 
-Nunc enim justo, elementum sit amet sodales sed, gravida at tellus.
+The Action Item module is designed to track actions and tasks related to sites, projects, and meetings so everything is connected and together in one place.
 
-## Requirements
-- Donec vel justo purus. 
-- Nulla neque quam, tempus sit amet urna id. 
-- Nullam mi dui, convallis ac nulla in. 
-- Nulla sit amet hendrerit lorem, ut semper enim.
+- The Action Item portal lists all action items and can be easily sorted and filtered by status, owner, category, due date, age.
+- Users can add and update action item records from the grid or in the summary tab. 
+- The calendar page shows the due date and forecast date for each action. 
+- The card view page organizes each action by category and days until the forecast finish date. <br />
 
-## Usage
-
-Donec aliquet placerat faucibus: 
-- Vivamus scelerisque vulputate tempus
-- Proin elementum convallis arcu
-- Maecenas elit purus
-- Nunc sit amet laoreet risus at porta turpis
-
-settings.json
-
-```json
-{
-"UserName":"username",
-"Password":"******",
-"URL":"http://localhost:8080"
-}
-```
-
-
-
-![image](/img/http_call_rule.png)
-
-![alt text](https://github.com/glebowadim/test_repo/blob/master/img/icon.png?raw=true)
-
-![image](img/http_call_rule123.png)
-
-
-
-
-
+- The Action Items don’t have to be related to anything, so this can be used for general actions related to multiple sites or other parts of the business.
+- The reminder feature can be used to send an email to the assigned user and action followers at a future date.
+- The history field retails the username and date of each comment and tracks the time since last comment.  
+- Action task fields can be used to keep track of sub-tasks or actions related to the action item.
+- The chat feature is enabled to allow users to collaborate and track progress to the action.
+ 
+![image](/img/img5.png)
